@@ -1,0 +1,5 @@
+Attack,fp16,q4_k_m
+affirmative_1,85.0,65.0
+affirmative_2,100.0,95.0
+baseline,26.0,47.0
+gcg_universal,11.0,7.0
