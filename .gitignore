@@ -1,0 +1,12 @@
+models/llama-3.1-8b.gguf
+models/llama-3.1-8b.Q4_K_M.gguf
+models/llama-3.1-8b.Q8_0.gguf
+models/mistral-7b.gguf
+models/mistral-7b.Q4_K_M.gguf
+models/mistral-7b.Q8_0.gguf
+
+
+hf-models/Llama-3.1-8B
+hf-models/mistral-7b
+hf-models/phi3-mini
+hf-models/qwen2-7b
